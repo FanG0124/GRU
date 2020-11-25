@@ -1,0 +1,355 @@
+-------------------------------------------------------
+###文件名:     my_experiment_001
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=3,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-3
+- 归一化:     
+-     StandardScaler
+
+-------------------------------------------------------
+###文件名:     my_experiment_002
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=3,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-3
+- 归一化:     
+-     MinMaxScaler
+
+-------------------------------------------------------
+###文件名:     my_experiment_003
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=3,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-4
+- 归一化:     
+-     MinMaxScaler
+
+-------------------------------------------------------
+###文件名:     my_experiment_004
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=3,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-4
+- 归一化:     
+-     StandardScaler
+
+-------------------------------------------------------
+###文件名:     my_experiment_005
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=3,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-6
+- 归一化:     
+-     StandardScaler
+
+-------------------------------------------------------
+###文件名:     my_experiment_006
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=3,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-6
+- 归一化:     
+-     MinMaxScaler
+
+-------------------------------------------------------
+###文件名:     my_experiment_007
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=3,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-5
+- 归一化:     
+-     MinMaxScaler
+
+-------------------------------------------------------
+###文件名:     my_experiment_008
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=3,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-5
+- 归一化:     
+-     StandardScaler
+
+-------------------------------------------------------
+###文件名:     my_experiment_009
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=4,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-3
+- 归一化:     
+-     MinMaxScaler
+
+-------------------------------------------------------
+###文件名:     my_experiment_010
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=4,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-3
+- 归一化:     
+-     StandardScaler
+
+-------------------------------------------------------
+###文件名:     my_experiment_011
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=4,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-4
+- 归一化:     
+-     MinMaxScaler
+
+-------------------------------------------------------
+###文件名:     my_experiment_012
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=4,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-4
+- 归一化:     
+-     StandardScaler
+
+-------------------------------------------------------
+###文件名:     my_experiment_013
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=4,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-5
+- 归一化:     
+-     StandardScaler
+
+-------------------------------------------------------
+###文件名:     my_experiment_014
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=4,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-5
+- 归一化:     
+-     MinMaxScaler
+
+-------------------------------------------------------
+### 文件名:     my_experiment_015
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=4,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-6
+- 归一化:     
+-     StandardScaler
+
+-------------------------------------------------------
+### 文件名:     my_experiment_016
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=4,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-6
+- 归一化:     
+-     MinMaxScaler
+
+-------------------------------------------------------
+### 文件名:     my_experiment_017
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=3,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-3
+- 归一化:     
+-     z-score
+
+-------------------------------------------------------
+### 文件名:     my_experiment_018
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=3,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-4
+- 归一化:     
+-     z-score
+
+-------------------------------------------------------
+### 文件名:     my_experiment_019
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=3,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-5
+- 归一化:     
+-     z-score
+
+-------------------------------------------------------
+### 文件名:     my_experiment_020
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=3,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-5
+- 归一化:     
+-     z-score
+
+-------------------------------------------------------
+### 文件名:     my_experiment_021
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=3,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-3
+- 归一化:     
+-     mine
+
+-------------------------------------------------------
+### 文件名:     my_experiment_022
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=3,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-4
+- 归一化:     
+-     mine
+
+-------------------------------------------------------
+### 文件名:     my_experiment_023
+- 网络参数:   
+-     epoch=500,input_size=4,hidden_size=3,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-5
+- 归一化:     
+-     mine
+
+-------------------------------------------------------
+### 文件名:     my_experiment_024
+- 网络参数:   
+-     epoch=500,input_size=6,hidden_size=5,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-3
+- 归一化:     
+-     mine
+
+-------------------------------------------------------
+### 文件名:     my_experiment_025
+- 网络参数:   
+-     epoch=500,input_size=6,hidden_size=5,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-4
+- 归一化:     
+-     mine
+
+-------------------------------------------------------
+### 文件名:     my_experiment_026
+- 网络参数:   
+-     epoch=500,input_size=6,hidden_size=5,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-5
+- 归一化:     
+-     mine
+
+-------------------------------------------------------
+### 文件名:     my_experiment_027
+- 网络参数:   
+-     epoch=500,input_size=6,hidden_size=5,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-6
+- 归一化:     
+-     mine
+
+-------------------------------------------------------
+### 文件名:     my_experiment_028
+- 网络参数:   
+-     epoch=500,input_size=6,hidden_size=5,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-3
+- 归一化:     
+-     StandardScaler
+
+-------------------------------------------------------
+### 文件名:     my_experiment_029
+- 网络参数:   
+-     epoch=500,input_size=6,hidden_size=5,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-4
+- 归一化:     
+-     StandardScaler
+
+-------------------------------------------------------
+### 文件名:     my_experiment_030
+- 网络参数:   
+-     epoch=500,input_size=6,hidden_size=5,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-5
+- 归一化:     
+-     StandardScaler
+
+-------------------------------------------------------
+### 文件名:     my_experiment_031
+- 网络参数:   
+-     epoch=500,input_size=6,hidden_size=5,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-6
+- 归一化:     
+-     StandardScaler
+
+-------------------------------------------------------
+### 文件名:     my_experiment_032
+- 网络参数:   
+-     epoch=500,input_size=6,hidden_size=5,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-3
+- 归一化:     
+-     MinMaxScaler
+
+-------------------------------------------------------
+### 文件名:     my_experiment_033
+- 网络参数:   
+-     epoch=500,input_size=6,hidden_size=5,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-4
+- 归一化:     
+-     MinMaxScaler
+
+-------------------------------------------------------
+### 文件名:     my_experiment_034
+- 网络参数:   
+-     epoch=500,input_size=6,hidden_size=5,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-5
+- 归一化:     
+-     MinMaxScaler
+
+-------------------------------------------------------
+### 文件名:     my_experiment_035
+- 网络参数:   
+-     epoch=500,input_size=6,hidden_size=5,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-6
+- 归一化:     
+-     MinMaxScaler
+
+-------------------------------------------------------
+### 文件名:     my_experiment_036
+- 网络参数:   
+-     epoch=500,input_size=7,hidden_size=6,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-3
+- 归一化:     
+-     mine
+
+-------------------------------------------------------
+### 文件名:     my_experiment_037
+- 网络参数:   
+-     epoch=500,input_size=7,hidden_size=6,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-4
+- 归一化:     
+-     mine
+
+-------------------------------------------------------
+### 文件名:     my_experiment_038
+- 网络参数:   
+-     epoch=500,input_size=7,hidden_size=6,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-5
+- 归一化:     
+-     mine
+
+-------------------------------------------------------
+### 文件名:     my_experiment_039
+- 网络参数:   
+-     epoch=500,input_size=7,hidden_size=6,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-6
+- 归一化:     
+-     mine
+
+-------------------------------------------------------
+### 文件名:     my_experiment_040
+- 网络参数:   
+-     epoch=500,input_size=7,hidden_size=6,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-3
+- 归一化:     
+-     StandardScaler
+
+-------------------------------------------------------
+### 文件名:     my_experiment_041
+- 网络参数:   
+-     epoch=500,input_size=7,hidden_size=6,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-4
+- 归一化:     
+-     StandardScaler
+
+-------------------------------------------------------
+### 文件名:     my_experiment_042
+- 网络参数:   
+-     epoch=500,input_size=7,hidden_size=6,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-5
+- 归一化:     
+-     StandardScaler
+- 表现良好
+
+-------------------------------------------------------
+### 文件名:     my_experiment_043
+- 网络参数:   
+-     epoch=500,input_size=7,hidden_size=6,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-6
+- 归一化:     
+-     StandardScaler
+- 无法收敛
+
+-------------------------------------------------------
+### 文件名:     my_experiment_044
+- 网络参数:   
+-     epoch=500,input_size=7,hidden_size=6,output_size=1,
+      optimizer="Adam",loss_func="MSE",lr=1e-3
+- 归一化:     
+-     StandardScaler
+- 无法收敛
+
